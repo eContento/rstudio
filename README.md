@@ -13,6 +13,12 @@ https://www.adictosaltrabajo.com/2019/10/30/leer-un-json-con-r-rstudio/
 
 ## 03. Obtener datos HTML, XML y FWF con R
 Aprenderemos a construir un dataFrame, a leer un fichero con formato de ancho fijado, tablas HTML de la web, XMLs, a obtener ficheros con RCurl, la sintaxis del $, y comenzaremos a hacer nuestros primeros pinitos con gráficos
+_(aún sin publicar)_
+
+## 04. Detección y reemplazo de outliers
+Daremos un repaso rápido a algunos conceptos básicos de estadística para centrarnos en la deteccion y reemplazo de outliers. Por el camino aprenderemos a manejar fechas y horas con R, a convertir una variable numérica en categórica, los diagramas de caja y bigotes, y a crear nuestras propias funciones.
+_(aún sin publicar)_
+
 
 ## Sobre el Autor
 Intento devolver a la comunidad parte del conocimiento que he adquirido de ella y por eso publico mis artículos en [`Adictos al Trabajo`](https://www.adictosaltrabajo.com/author/juan-antonio-jimenez-torres/)
