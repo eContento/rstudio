@@ -13,6 +13,7 @@ https://www.adictosaltrabajo.com/2019/10/30/leer-un-json-con-r-rstudio/
 
 ## 03. Obtener datos HTML, XML y FWF con R
 Aprenderemos a construir un dataFrame, a leer un fichero con formato de ancho fijado, tablas HTML de la web, XMLs, a obtener ficheros con RCurl, la sintaxis del $, y comenzaremos a hacer nuestros primeros pinitos con gráficos
+https://www.adictosaltrabajo.com/2019/11/13/obtener-datos-con-r-html-xml-y-fwf/
 _(aún sin publicar)_
 
 ## 04. Detección y reemplazo de outliers
