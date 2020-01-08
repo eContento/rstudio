@@ -17,6 +17,10 @@ https://www.adictosaltrabajo.com/2019/11/13/obtener-datos-con-r-html-xml-y-fwf/
 
 ## 04. Detección y reemplazo de outliers
 Daremos un repaso rápido a algunos conceptos básicos de estadística para centrarnos en la deteccion y reemplazo de outliers. Por el camino aprenderemos a manejar fechas y horas con R, a convertir una variable numérica en categórica, los diagramas de caja y bigotes, y a crear nuestras propias funciones.  
+https://www.adictosaltrabajo.com/2019/11/28/deteccion-y-reemplazo-de-outliers-con-r/
+
+## 05. Gráficos de judías, ScatterPlots y mapas con RStudio
+En este artículo vemos los gráficos de judías como una alternativa a los diagramas de caja y bigotes, aprenderemos como pintar funciones de densidad sobre un histograma, matrices de scatterplots que nos indican la relación (directa o inversa) entre variables, o como disponer datos numéricos sobre mapas geográficos con la librería GGPlot2
 _(aún sin publicar)_
 
 
