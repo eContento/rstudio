@@ -20,9 +20,8 @@ Daremos un repaso rápido a algunos conceptos básicos de estadística para cent
 https://www.adictosaltrabajo.com/2019/11/28/deteccion-y-reemplazo-de-outliers-con-r/
 
 ## 05. Gráficos de judías, ScatterPlots y mapas con RStudio
-En este artículo vemos los gráficos de judías como una alternativa a los diagramas de caja y bigotes, aprenderemos como pintar funciones de densidad sobre un histograma, matrices de scatterplots que nos indican la relación (directa o inversa) entre variables, o como disponer datos numéricos sobre mapas geográficos con la librería GGPlot2
-_(aún sin publicar)_
-
+En este artículo vemos los gráficos de judías como una alternativa a los diagramas de caja y bigotes, aprenderemos como pintar funciones de densidad sobre un histograma, matrices de scatterplots que nos indican la relación (directa o inversa) entre variables, o como disponer datos numéricos sobre mapas geográficos con la librería GGPlot2.
+https://www.adictosaltrabajo.com/2020/01/14/graficos-de-judias-scatterplots-y-mapas-con-rstudio/
 
 ## Sobre el Autor
 Intento devolver a la comunidad parte del conocimiento que he adquirido de ella y por eso publico mis artículos en [`Adictos al Trabajo`](https://www.adictosaltrabajo.com/author/juan-antonio-jimenez-torres/)
