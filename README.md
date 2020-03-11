@@ -23,6 +23,10 @@ https://www.adictosaltrabajo.com/2019/11/28/deteccion-y-reemplazo-de-outliers-co
 En este artículo vemos los gráficos de judías como una alternativa a los diagramas de caja y bigotes, aprenderemos como pintar funciones de densidad sobre un histograma, matrices de scatterplots que nos indican la relación (directa o inversa) entre variables, o como disponer datos numéricos sobre mapas geográficos con la librería GGPlot2.
 https://www.adictosaltrabajo.com/2020/01/14/graficos-de-judias-scatterplots-y-mapas-con-rstudio/
 
+## 06. Algoritmos de clasificación con RStudio
+Aprenderemos qué son los algoritmos de clasificación con RStudio y para qué sirven. Mostraremos cómo dividir el conjunto de datos en dos subconjuntos, el de entrenamiento que usaremos para crear el modelo, y el de test, que usaremos para comprobar el modelo. Los modelos que se verán en este primer acercamiento serán los árboles de decisión y el modelo de bosque aleatorio. También veremos como medir las bondades del modelo mediante matrices de confusión y curvas ROC para ver cómo de preciso es.
+(pendiente de publicar)
+
 ## Sobre el Autor
 Intento devolver a la comunidad parte del conocimiento que he adquirido de ella y por eso publico mis artículos en [`Adictos al Trabajo`](https://www.adictosaltrabajo.com/author/juan-antonio-jimenez-torres/)
 
