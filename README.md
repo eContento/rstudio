@@ -24,7 +24,7 @@ En este artículo vemos los gráficos de judías como una alternativa a los diag
 https://www.adictosaltrabajo.com/2020/01/14/graficos-de-judias-scatterplots-y-mapas-con-rstudio/
 
 ## 06. Algoritmos de clasificación con RStudio
-Aprenderemos qué son los algoritmos de clasificación con RStudio y para qué sirven. Mostraremos cómo dividir el conjunto de datos en dos subconjuntos, el de entrenamiento que usaremos para crear el modelo, y el de test, que usaremos para comprobar el modelo. Los modelos que se verán en este primer acercamiento serán los árboles de decisión y el modelo de bosque aleatorio. También veremos como medir las bondades del modelo mediante matrices de confusión y curvas ROC para ver cómo de preciso es.
+Aprenderemos qué son los algoritmos de clasificación con RStudio y para qué sirven. Mostraremos cómo dividir el conjunto de datos en dos subconjuntos, el de entrenamiento que usaremos para crear el modelo, y el de test, que usaremos para comprobar el modelo. Los modelos que se verán en este primer acercamiento serán los árboles de decisión y el modelo de bosque aleatorio. También veremos como medir las bondades del modelo mediante matrices de confusión y curvas ROC para ver cómo de preciso es.  
 https://www.adictosaltrabajo.com/2020/03/19/algoritmos-de-clasificacion-con-rstudio/
 
 ## Sobre el Autor
